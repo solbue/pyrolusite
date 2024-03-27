@@ -1,0 +1,15 @@
+{
+  "name": "pyrolusite",
+  "version": "1.0.0",
+  "description": "Ugly site compo boilerplate",
+  "main": "index.js",
+  "engines": {
+    "node": "20.10.0"
+  },
+  "scripts": {
+    "dev": "sass --watch /styles/stylesheet.scss:stylesheet.css",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
